@@ -1,6 +1,5 @@
 ## Hello world, I’m Olga Karpova 👋
 - 👩‍💻 I'm a beginner Python developer.
-- 🔧 I'm currently working at [Foodgram Project](https://github.com/olkrpv/foodgram-project-react).
 - 📈 I have a degree in applied mathematics and computer science.
 - 📚 I’m learning Python and English.
 - 👀 I’m interested in programming, books and computer games.
