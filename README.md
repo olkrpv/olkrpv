@@ -1,5 +1,6 @@
 ## Hello world, I’m Olga Karpova 👋
 - 👩‍💻 I'm a beginner Python developer.
+- 🔧 I'm currently taking part in the HRSpace hackathon.
 - 📈 I have a degree in applied mathematics and computer science.
 - 📚 I’m learning Python and English.
 - 👀 I’m interested in programming, books and computer games.
@@ -19,7 +20,17 @@
 ##
 
 ### Languages and Tools:
-Python / Django Framework / Django REST Framework / SQL / PostgreSQL / Gunicorn / Docker / Nginx / Postman / Git
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-plain-wordmark.svg" title="DjangoREST" alt="DjangoREST" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain-wordmark.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 
 <!---
 olkrpv/olkrpv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
