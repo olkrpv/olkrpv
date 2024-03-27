@@ -1,6 +1,5 @@
-## Hello world, I’m Olga Karpova 👋
+## Hello world, I’m Olga 👋
 - 👩‍💻 I'm a beginner Python developer.
-- 🔧 I'm currently taking part in the HRSpace hackathon.
 - 📈 I have a degree in applied mathematics and computer science.
 - 📚 I’m learning Python and English.
 - 👀 I’m interested in programming, books and computer games.
