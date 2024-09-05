@@ -1,21 +1,10 @@
 ## Hello world, I’m Olga 👋
-- 👩‍💻 I'm a beginner Python developer.
-- 📈 I have a degree in applied mathematics and computer science.
-- 📚 I’m learning Python and English.
-- 👀 I’m interested in programming, books and computer games.
+- 👩🏻‍💻 I work as a Python developer.
+- 🎓 I have a degree in Applied Mathematics and Informatics.
+- 👩🏻‍🎓 I'm studying Data Science and I want to retrain as a Data Scientist.
 - 📫 How to reach me:
   - Telegram: @olkrpv
   - E-mail: karpovaolga@internet.ru
-##
-
-### My Projects:
-[Reviews API Project](https://github.com/olkrpv/reviews_api_project)
-
-[Notes API Project](https://github.com/olkrpv/notes_api_project)
-
-[Blog Project](https://github.com/olkrpv/blog_project)
-
-[Foodgram Project](https://github.com/olkrpv/foodgram-project-react)
 ##
 
 ### Languages and Tools:
