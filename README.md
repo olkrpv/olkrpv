@@ -10,7 +10,7 @@
 
 ### Languages and Tools:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,matplotlib,seaborn,git,anaconda,jupyter,pycharm,vscode,chatgpt)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,matplotlib,seaborn,git,anaconda,jupyter,pycharm,vscode,postman,chatgpt)
 
 <!---
 olkrpv/olkrpv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
