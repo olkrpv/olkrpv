@@ -2,7 +2,7 @@
 - 👩🏻‍💻 I work as a Python developer.
 - 🎓 I have a degree in Applied Mathematics and Informatics.
 - 👩🏻‍🎓 I'm studying Data Science and I want to retrain as a Data Scientist.
-- 💚 I'm fond of maths and programming.
+- 💚 I love maths and programming.
 - 📫 How to reach me:
   - Telegram: @olkrpv
   - E-mail: karpovaolga@internet.ru
